@@ -84,7 +84,7 @@ BOTLOAD includes a **professional vulnerability scanner** + an **AI agent on a r
 - **Claude AI agent** adapts strategy based on reconnaissance
 - Live results — vulnerabilities appear as they're found
 - Evidence, remediation, CVSS scores
-- Automatic retry and fault tolerance
+- Automatic retry and fault tolerance 
 
 ---
 
